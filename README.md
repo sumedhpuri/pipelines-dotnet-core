@@ -1,5 +1,5 @@
 # Sample ASP.NET Core application for Azure Pipelines docs
-
+[![Build Status](https://dev.azure.com/azuser439mmllocal/MI_Azure_Training/_apis/build/status%2Fsumedhpuri.pipelines-dotnet-core?branchName=master)](https://dev.azure.com/azuser439mmllocal/MI_Azure_Training/_build/latest?definitionId=2&branchName=master)
 For information on how to set up a pipeline for this repository, see [Create your first pipeline](https://docs.microsoft.com/azure/devops/pipelines/get-started-yaml?view=azure-devops).
 For more information on building .NET Core applications, see [.NET Core](https://docs.microsoft.com/azure/devops/pipelines/languages/dotnet-core?view=azure-devops).
 
